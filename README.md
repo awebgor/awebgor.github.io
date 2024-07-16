@@ -10,4 +10,7 @@
         a[href="https://awebgor.github.io/"] {
     display: none !important;
 }
+        a[href="https://github.com/awebgor"] {
+    display: none !important;
+}
     </style>
