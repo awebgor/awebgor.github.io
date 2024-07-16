@@ -15,12 +15,16 @@
 }
     </style>
 
-<h2>Heading level 2</h2>
-***
-<p>This is the first line</p>
+<h2>Phone Number To Call/Text To Schedule Your Appointment!</h2>
+
+---
+
+<p>(585)503-5302</p>
 
 
-<h2>Heading level 2</h2>
-***
-<p>This is the first line</p>
+<h2>Email Address To Message to Scehdule Your Appointment!</h2>
+
+---
+
+<p>irondequoitcardetailing@gmail.com</p>
 
