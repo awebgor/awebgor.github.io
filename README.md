@@ -17,5 +17,9 @@
 
 <h2>Heading level 2</h2>
 
+<p>This is the first line</p>
+
 <h2>Heading level 2</h2>
+
+<p>This is the first line</p>
 
