@@ -1,4 +1,5 @@
-
+# https://www.markdownguide.org/basic-syntax/
+# need to make a section for what we need from the customers (address and time), a section that describes each package, a section to show of his work 
 <head>
     <style>
         .grade-input-container {
