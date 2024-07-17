@@ -1,5 +1,6 @@
 # https://www.markdownguide.org/basic-syntax/
 # need to make a section for what we need from the customers (address and time), a section that describes each package, a section to show of his work 
+# https://html5up.net/txt
 <head>
     <style>
         .grade-input-container {
@@ -28,4 +29,6 @@
 ---
 
 <p>irondequoitcardetailing@gmail.com</p>
+
+---
 
