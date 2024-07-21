@@ -2464,10 +2464,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		/* 4x4 Grid Specific Styles */
+		/* 2x2 Grid Specific Styles */
 		.image-grid {
     			display: grid;
-    			grid-template-columns: repeat(4, 1fr);
+    			grid-template-columns: repeat(2, 1fr);
     			grid-gap: 10px;
 		}
 
