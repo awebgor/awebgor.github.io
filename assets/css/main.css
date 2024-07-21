@@ -2411,12 +2411,13 @@ input, select, textarea {
 
 /* Image */
 
+
 	.image {
 		border-radius: 5px;
 		border: 0;
 		display: inline-block;
 		position: relative;
-	}
+	} 
 
 		.image img {
 			border-radius: 5px;
@@ -2462,6 +2463,18 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+
+		/* 4x4 Grid Specific Styles */
+		.image-grid {
+    			display: grid;
+    			grid-template-columns: repeat(4, 1fr);
+    			grid-gap: 10px;
+		}
+
+		.image-grid .image {
+    			width: 100%;
+    			overflow: hidden; /* Ensure images fit within grid cells */
+		}
 
 /* List */
 
@@ -4155,3 +4168,6 @@ input, select, textarea {
 		}
 
 	}
+
+
+
