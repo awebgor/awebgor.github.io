@@ -3017,8 +3017,12 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
-		.features-heading {
-			margin: 150px;
+		.features-heading-before {
+			margin-right: 75px;
+		}
+
+		.features-heading-after {
+			margin-left: 75px;
 		}
 
 		.features article {
