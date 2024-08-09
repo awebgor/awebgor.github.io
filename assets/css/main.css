@@ -3019,11 +3019,13 @@ input, select, textarea {
 	}
 
 		.features-heading-before {
-			margin-right: 210px;
+			/*margin-right: 210px;*/
+			margin-right: 25%
 		}
 
 		.features-heading-after {
-			margin-left: 210px;
+			/*margin-left: 210px;*/
+			margin-left: 25%
 		}
 
 		.features article {
